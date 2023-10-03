@@ -13,10 +13,10 @@ const Category = (props) => {
 
             <div className='d-flex justify-content-between mx-4 pb-4' >
                 <h2>{nombre}</h2>
-                <Link to='' className='btn button d-flex align-items-center'>
+                <a to='' className='btn button d-flex align-items-center'>
                     Ver todo
                     <ion-icon size="small" name="arrow-forward-outline" ></ion-icon>
-                </Link>
+                </a>
 
             </div>
             <div className='d-flex flex-wrap cardProduct justify-content-around pb-4 pb-3 '>

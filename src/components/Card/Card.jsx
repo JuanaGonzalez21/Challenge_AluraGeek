@@ -18,7 +18,7 @@ const Card = (props) => {
                                 <div className="card-body">
                                     <h5 className="card-title">{productos.nombre}</h5>
                                     <p className="card-text">{productos.descripcion}</p>
-                                    <a href="#" className="btn btn-primary">Go somewhere</a>
+                                    <a href="#" className="btn btn-primary">Ver más...</a>
                                 </div>
                         </div>
                     </>
