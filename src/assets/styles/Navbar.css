@@ -1,0 +1,41 @@
+.formSearchNavbar {
+    background-color: white;
+    padding: 0 10px;
+    border: 0.5px solid #0dcaf0;
+    border-radius: 10px;
+    align-items: baseline;
+
+}
+
+.inputSearchNavbar {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+
+
+
+.btnFormNavbar{
+    background-color: transparent;
+    border: none;
+    height: 30px !important;
+}
+
+.inputSearchNavbar::placeholder {
+    color: #0dcaf0;
+}
+
+ion-icon {
+    padding: 0;
+    font-size: 30px;
+    color: #0dcaf0;
+    align-items: center;
+}
+
+/* @media (min-width: 900px) {
+    .formSearchNavbar:hover{
+        height: 40px;
+        width: 400px;
+    }
+} */
