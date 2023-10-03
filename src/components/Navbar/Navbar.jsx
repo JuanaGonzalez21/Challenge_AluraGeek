@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div>
       <nav className="navbar navbar-light bg-light">
-        <div className="container-fluid flex-nowrap justify-content-around pb-2">
+        <div className="container-fluid flex-wrap justify-content-around pb-2">
           <a className="navbar-brand"><img src={logoZonaGeek} alt="" /></a>
           <form className="d-flex " >
             <div className='formSearchNavbar d-flex align-items-center'>
