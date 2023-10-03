@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Challenge_AluraGeek/static/css/main.13d253b7.css",
+    "main.js": "/Challenge_AluraGeek/static/js/main.1521dd9b.js",
+    "static/media/banner.jpg": "/Challenge_AluraGeek/static/media/banner.a0398622e8b9c41f309e.jpg",
+    "index.html": "/Challenge_AluraGeek/index.html",
+    "main.13d253b7.css.map": "/Challenge_AluraGeek/static/css/main.13d253b7.css.map",
+    "main.1521dd9b.js.map": "/Challenge_AluraGeek/static/js/main.1521dd9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13d253b7.css",
+    "static/js/main.1521dd9b.js"
+  ]
+}
