@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/Challenge_AluraGeek/static/css/main.5b389fa8.css",
-    "main.js": "/Challenge_AluraGeek/static/js/main.0da8e7fd.js",
+    "main.css": "/Challenge_AluraGeek/static/css/main.feaa9cc1.css",
+    "main.js": "/Challenge_AluraGeek/static/js/main.67523f6e.js",
     "static/media/banner.jpg": "/Challenge_AluraGeek/static/media/banner.2885913ca45b4bb3bcb8.jpg",
+    "static/media/undraw-contact.svg": "/Challenge_AluraGeek/static/media/undraw-contact.40d2e143c895b4abeda84022e82e6013.svg",
     "index.html": "/Challenge_AluraGeek/index.html",
-    "main.5b389fa8.css.map": "/Challenge_AluraGeek/static/css/main.5b389fa8.css.map",
-    "main.0da8e7fd.js.map": "/Challenge_AluraGeek/static/js/main.0da8e7fd.js.map"
+    "main.feaa9cc1.css.map": "/Challenge_AluraGeek/static/css/main.feaa9cc1.css.map",
+    "main.67523f6e.js.map": "/Challenge_AluraGeek/static/js/main.67523f6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b389fa8.css",
-    "static/js/main.0da8e7fd.js"
+    "static/css/main.feaa9cc1.css",
+    "static/js/main.67523f6e.js"
   ]
 }
