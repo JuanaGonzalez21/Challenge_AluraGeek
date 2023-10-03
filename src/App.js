@@ -1,15 +1,20 @@
 import './App.css'
-import Banner from './components/ContainerBanner/Banner';
 import Navbar from './components/Navbar/Navbar';
-import Products from './components/Products/Products';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
+import Home from './components/Home/Home';
+import Category from './components/Category/Category';
 
 const App = () => {
   return (
     <>
-    <Navbar/>
-    <Banner/>
-    <Products/>
-      
+    <Router>
+      <Navbar/>
+      <Routes>
+        <Route path="/" element={<Home/>}></Route>
+        <Route path='/categoria/:id' element={<Category/>}></Route>
+      </Routes>
+    </Router>
+    
     </>
   );
 }

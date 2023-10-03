@@ -6,15 +6,15 @@ const Banner = () => {
         <>
             <div className="card text-white border-0">
                 <img src={bannerZonaGeek} height="500px" className="card-img imgBanner " alt="Banner" />
-                    <div className="card-img-overlay d-flex flex-column justify-content-around ms-3">
-                        <div className="containerBanner d-flex flex-column ">
+                <div className="card-img-overlay d-flex flex-column mx-4 justify-content-around ">
+                    <div className="containerBanner d-flex flex-column ">
                         <h5 className="card-title display-3 text-dark fw-bold mb-0">Ofertas de Octubre</h5>
                         <p className="card-text text-dark">Productos seleccionados para ti</p>
-                        </div>
-                        
-                        <button type="button" className="btn btn-outline-info btnBanner ">Ver Producto</button>
                     </div>
-                    
+
+                    <button type="button" className="btn btn-outline-info btnBanner ">Ver Producto</button>
+                </div>
+
             </div>
         </>
     );
